@@ -1,0 +1,10 @@
+Practica1 Vue3
+
+Nombre del Integrante
+
+- Juan Antonio Sabath Awad
+
+Para inicar el proyecto
+
+1) npm install 
+2) npm run server
